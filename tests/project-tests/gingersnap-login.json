@@ -1,0 +1,62 @@
+[
+    {
+        "testname": "Check Authentication",
+        "url" : "https://animated-gingersnap-8cf7f2.netlify.app/",
+        "username": "admin",
+        "project": "Web Application",
+        "password": "password123",
+        "task": "Implement user authentication",
+        "status": "To Do",
+        "tags": ["Feature", "High Priority"]
+    },
+    {
+        "testname": "Check Navigation Bug",
+        "url" : "https://animated-gingersnap-8cf7f2.netlify.app/",
+        "username": "admin",
+        "project": "Web Application",
+        "password": "password123",
+        "task": "Fix navigation bug",
+        "status": "To Do",
+        "tags": ["Bug"]
+    },
+    {
+        "testname": "Check Design system",
+        "url" : "https://animated-gingersnap-8cf7f2.netlify.app/",
+        "username": "admin",
+        "project": "Web Application",
+        "password": "password123",
+        "task": "Design system updates",
+        "status": "In Progress",
+        "tags": ["Design"]
+    },
+    {
+        "testname": "Check Push notification system",
+        "url" : "https://animated-gingersnap-8cf7f2.netlify.app/",
+        "username": "admin",
+        "password": "password123",
+        "project": "Mobile Application",
+        "task": "Push notification system",
+        "status": "To Do",
+        "tags": ["Feature"]
+    },
+    {
+        "testname": "Check Offline mode",
+        "url" : "https://animated-gingersnap-8cf7f2.netlify.app/",
+        "username": "admin",
+        "password": "password123",
+        "project": "Mobile Application",
+        "task": "Offline mode",
+        "status": "In Progress",
+        "tags": ["Feature", "High Priority"]
+    },
+    {
+        "testname": "Check App icon",
+        "url" : "https://animated-gingersnap-8cf7f2.netlify.app/",
+        "username": "admin",
+        "password": "password123",
+        "project": "Mobile Application",
+        "task": "App icon design",
+        "status": "Done",
+        "tags": ["Design"]
+    }
+]
